@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkSpace\\DotNET-Aula\\Pokedex\\Pokedex.csproj": {}
+    "C:\\WorkSpace\\Linguagem-CSharp\\Pokedex\\Pokedex\\Pokedex.csproj": {}
   },
   "projects": {
-    "C:\\WorkSpace\\DotNET-Aula\\Pokedex\\Pokedex.csproj": {
+    "C:\\WorkSpace\\Linguagem-CSharp\\Pokedex\\Pokedex\\Pokedex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkSpace\\DotNET-Aula\\Pokedex\\Pokedex.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\Linguagem-CSharp\\Pokedex\\Pokedex\\Pokedex.csproj",
         "projectName": "Pokedex",
-        "projectPath": "C:\\WorkSpace\\DotNET-Aula\\Pokedex\\Pokedex.csproj",
+        "projectPath": "C:\\WorkSpace\\Linguagem-CSharp\\Pokedex\\Pokedex\\Pokedex.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkSpace\\DotNET-Aula\\Pokedex\\obj\\",
+        "outputPath": "C:\\WorkSpace\\Linguagem-CSharp\\Pokedex\\Pokedex\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

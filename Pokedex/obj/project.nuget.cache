@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IEyjEYm9I+1m5o8icqp1fhyXm4GGj4UiQOI+Xy86E8xa5shcsRDCm4evesKkkSug5GQyxuzBTev3CUYh6W6GbQ==",
+  "dgSpecHash": "H8US/kvvQ+bDHVMp0h9A0wV/Y+xfV+ZJhqZx0gHm5yKWFkuwXjs1iIm5kd+sxzhCHt8xE2ND9zTKvwqrQ4x7mQ==",
   "success": true,
-  "projectFilePath": "C:\\WorkSpace\\DotNET-Aula\\Pokedex\\Pokedex.csproj",
+  "projectFilePath": "C:\\WorkSpace\\Linguagem-CSharp\\Pokedex\\Pokedex\\Pokedex.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 
 namespace Pokedex
 {
@@ -6,10 +6,9 @@ namespace Pokedex
     {
         static void Main(string[] args)
         {
-            Pokemon p = new Pokemon();
-            p.Nome = "Bulbassauro";
-            p.Descricao = "Pokémon tipo Planta";
-            p.ExibirDadosPokemon();
+            Pokemon p = new Pokemon("Bulbassauro","Pokémon tipo Planta");
+            Pokemon p1 = new Pokemon();
+            p.ExibirDadosPokemon(true);
         }
     }
 }
